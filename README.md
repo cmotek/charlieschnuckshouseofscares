@@ -12,3 +12,4 @@ I put together an initial logo look with GIMP (bewilderingly terrible name for a
 Create better background image in terms of shading. Will let this one fly. Not the best thing on the planet but still pretty good. I may try and do another version with better shading on the leaves, but I prefer the shading on the leaves and the skull on this one. Text placement is a little better on the previous one. Now to do research on pixelated backgrounds.
 
 02/15/2022
+Built the charlie page, which of course, will be replaced with the actual website, but was good practice for how Flask uses routes to navigate between pages. The ultimate important thing about the updates for today is that I worked to harness the background image and the ENTER link for the website in the appropriate station. Now, I just have to create the ENTER image that I want to use instead of text and create the entry audio!?! for the website modeled off the title pages for Resident Evil.

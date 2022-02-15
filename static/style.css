@@ -1,18 +1,22 @@
 body {
     background: black;
-    color: white;
-}
-
-h1 {
-    padding-top: 25%;
-    text-align: center;
-}
-
-img {
-    padding-top: 5%;
+    background-image: url('newcharlielogo.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 .enter {
     text-align: center;
-    color: white;
+    font-size: 500%;
+    position: relative;
+    margin-top: 30%;
 }
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+  }
