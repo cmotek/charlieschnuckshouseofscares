@@ -10,3 +10,5 @@ I put together an initial logo look with GIMP (bewilderingly terrible name for a
 
 02/08/2022
 Create better background image in terms of shading. Will let this one fly. Not the best thing on the planet but still pretty good. I may try and do another version with better shading on the leaves, but I prefer the shading on the leaves and the skull on this one. Text placement is a little better on the previous one. Now to do research on pixelated backgrounds.
+
+02/15/2022
