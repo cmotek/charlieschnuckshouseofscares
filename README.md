@@ -13,3 +13,6 @@ Create better background image in terms of shading. Will let this one fly. Not t
 
 02/15/2022
 Built the charlie page, which of course, will be replaced with the actual website, but was good practice for how Flask uses routes to navigate between pages. The ultimate important thing about the updates for today is that I worked to harness the background image and the ENTER link for the website in the appropriate station. Now, I just have to create the ENTER image that I want to use instead of text and create the entry audio!?! for the website modeled off the title pages for Resident Evil.
+
+02/17/2022
+LOL I got the ENTER image that I had in my mind for this. Desktop version still isn't responsive but I'll probably have to come up with a design for that. But this is hilariously close to what I had in my head for this. Now onward to audio. 
