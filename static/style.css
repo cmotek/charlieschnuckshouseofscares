@@ -1,9 +1,14 @@
-body {
+.index {
     background: black;
     background-image: url('newcharlielogo.png');
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
+}
+
+.castle {
+    background-image: url('castleimage.jpg');
+    background-size: cover;
 }
 
 .enter {
