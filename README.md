@@ -20,4 +20,4 @@ LOL I got the ENTER image that I had in my mind for this. Desktop version still 
 02/24/2022
 Pixel art background is going to be difficult, difficult, difficult to do. And since I also plan on having the size of the website expand, I plan on scratching it and restarting anyways. Difficult, difficult. How will I get the look the I have in my head? 
 
-I at least have located a castle image I can work from that fits basically what I would have in my find for the look of the website, although it will be a lot of work in order to shape it appropriately. Then I can add animated sprites that take the 
+I at least have located a castle image I can work from that fits basically what I would have in my find for the look of the website, although it will be a lot of work in order to shape it appropriately. Then I can add animated sprites that functions as different links to "rooms" of the "castle". 
