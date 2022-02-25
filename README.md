@@ -16,3 +16,6 @@ Built the charlie page, which of course, will be replaced with the actual websit
 
 02/17/2022
 LOL I got the ENTER image that I had in my mind for this. Desktop version still isn't responsive but I'll probably have to come up with a design for that. But this is hilariously close to what I had in my head for this. Now onward to audio. 
+
+02/24/2022
+Pixel art background is going to be difficult, difficult, difficult to do. And since I also plan on having the size of the website expand, I plan on scratching it and restarting anyways. Difficult, difficult. How will I get the look the I have in my head? 
