@@ -1,3 +1,7 @@
+html {
+    cursor: url(cursor.png), pointer;
+}
+
 .index {
     background: black;
     background-image: url('newcharlielogo.png');
@@ -7,7 +11,7 @@
 }
 
 .castle {
-    background-image: url('castleimage.png');
+    background: black;
     background-size: cover;
 }
 
@@ -16,12 +20,15 @@
     font-size: 500%;
     position: relative;
     margin-top: 30%;
+    cursor: url(cursor.png), pointer;
 }
 
 a {
     text-decoration: none;
+    cursor: url(cursor.png), pointer;
 }
 
 a:visited {
     color: white;
+    cursor: url(cursor.png), pointer;
   }
